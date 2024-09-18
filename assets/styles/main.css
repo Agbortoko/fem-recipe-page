@@ -201,3 +201,10 @@ p {
         padding: 0;
     }
 }
+
+/* Styling for Very Large Screens */
+@media screen and (min-width: 1440px) {
+    .recipe-container{
+        width: 850px;
+    }
+}
